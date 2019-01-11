@@ -1,0 +1,20 @@
+-
+  name: About
+  link: /about
+  icon: flask
+-
+  name: Rationale
+  link: /rationale
+  icon: question-circle
+-
+  name: Publications
+  link: /publications
+  icon: book
+-
+  name: Resources
+  link: /resources
+  icon: tools
+-
+  name: Community
+  link: /community
+  icon: users

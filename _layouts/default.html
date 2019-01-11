@@ -1,0 +1,49 @@
+{% include header.html %}
+
+<header id="top">
+	<div class="outer-wrapper">
+		<div class="container">
+			<div class="inner-wrapper">
+				<p class="logo">
+					<a href="{{ "/" | relative_url }}"><img src="{{ "/" | relative_url }}assets/images/logo.svg" alt="UE4Research"></a>
+				</p>
+				<p id="navtoggle">
+					<a data-toggle="collapse" href="nav" role="button" aria-expanded="false" aria-controls="nav"><span class="fas fa-bars" title="Toggle navigation"></span></a>
+				</p>
+			</div>
+			<nav class="collapse">
+				<ul>
+				{% for item in site.data.nav %}
+					<li class="navlink link-{{ item.name | downcase | escape }}">
+						<a href="{{ item.link | relative_url | uri_escape }}">
+							<span class="fas fa-{{ item.icon | escape }} icon-left"></span> 
+							{{ item.name | escape }}
+						</a>
+					</li>
+				{% endfor %}
+				</ul>
+			</nav>
+		</div>
+	</div>
+	
+	<div class="jumbotron-fluid container">
+		<h1>{{ page.title | escape }}</h1>
+		<p class="lead">{{ page.tagline | escape }}</p>
+	</div>
+</header>
+
+<main>
+	<article class="container">
+		{{ content }}
+	</article>
+</main>
+
+<footer class="container text-light">
+	<div>
+		<p>Copyright &copy; 2018 - {{ site.time | date: '%Y' }}, Adam Rehn and the UE4Research contributors.</p>
+		<p>All content is licensed under a <a class="text-light" rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</p>
+	</div>
+	<p class="return-to-top"><a href="#top">Return to top <span class="fas fa-chevron-circle-up icon-right"></span></a></p>
+</footer>
+
+{% include footer.html %}

@@ -1,0 +1,165 @@
+main h2 {
+	font-size: 1.75rem;
+}
+
+main h3 {
+	font-size: 1.5rem;
+}
+
+.icon-left, .icon-right {
+	display: inline-block;
+}
+
+.icon-left {
+	padding-right: 0.25rem;
+}
+
+.icon-right {
+	padding-left: 0.25rem;
+}
+
+.pagelink-wrapper {
+	display: block;
+}
+
+.pagelink-wrapper:hover {
+	text-decoration: none;
+}
+
+.pagelink .pagelink-icon .icon
+{
+	font-size: 3rem;
+	color: #fff;
+}
+
+.pagelink h2, .pagelink p {
+	margin: 0;
+}
+
+.link-about .pagelink-icon {
+	background-color: #51cd00;
+}
+
+.link-about .icon-left {
+	color: #51cd00;
+}
+
+.link-rationale .pagelink-icon {
+	background-color: #ff623d;
+}
+
+.link-rationale .icon-left {
+	color: #ff623d;
+}
+
+.link-publications .pagelink-icon {
+	background-color: #38adff;
+}
+
+.link-publications .icon-left {
+	color: #38adff;
+}
+
+.link-resources .pagelink-icon {
+	background-color: #ff9f00;
+}
+
+.link-resources .icon-left {
+	color: #ff9f00;
+}
+
+.link-community .pagelink-icon {
+	background-color:#af51f5;
+}
+
+.link-community .icon-left {
+	color:#af51f5;
+}
+
+.infrastructure-links, .infrastructure-links li
+{
+	list-style-type: none;
+	padding: 0;
+}
+
+.infrastructure-description
+{
+	font-style: italic;
+	color: #555;
+}
+
+main h2
+{
+	font-size: 1.75rem;
+	margin-top: 4rem;
+	margin-bottom: 1.5rem;
+}
+
+main h3
+{
+	font-size: 1.25rem;
+	margin-top: 3rem;
+	margin-bottom: 1.25rem;
+}
+
+main blockquote
+{
+	border-left: 0.25rem solid #dfe2e5;
+	margin-bottom: 2rem;
+	padding: 0 1.5rem;
+	color: #6a737d;
+}
+
+article > *:first-child {
+	margin-top: 0;
+}
+
+main figure
+{
+	text-align: center;
+	margin: 3rem 0;
+}
+
+main figcaption
+{
+	padding-top: 1rem;
+	font-weight: bold;
+}
+
+main figure img, main figure table
+{
+	display: inline-block;
+	text-align: left;
+	max-width: 90%;
+}
+
+main table th, main table td
+{
+	border: 1px solid #eee;
+	padding: 1rem 1rem;
+}
+
+
+main table tr th {
+	background-color: rgb(246, 248, 250, 1);
+}
+
+main table tr:nth-child(odd) td {
+	background-color: #fff;
+}
+
+main table tr:nth-child(even) td {
+	background-color: rgb(246, 248, 250, 0.4);
+}
+
+main .footnote:before {
+	content: "[";
+}
+
+main .footnote:after {
+	content: "]";
+}
+
+.footnotes li p {
+	margin: 0;
+}

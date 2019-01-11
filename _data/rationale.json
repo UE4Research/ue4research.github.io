@@ -1,0 +1,118 @@
+{
+    "Produces photo-realistic images": [
+        {
+            "index": "3",
+            "key": "Carrio2018"
+        },
+        {
+            "index": "4",
+            "key": "Khirodkar2018"
+        },
+        {
+            "index": "6",
+            "key": "Lerer2016"
+        },
+        {
+            "index": "8",
+            "key": "Qiu2016"
+        },
+        {
+            "index": "9",
+            "key": "Shah2018"
+        },
+        {
+            "index": "10",
+            "key": "Smyth2018"
+        }
+    ],
+    "High-quality physics/collision simulation": [
+        {
+            "index": "5",
+            "key": "Ktena2015"
+        },
+        {
+            "index": "6",
+            "key": "Lerer2016"
+        },
+        {
+            "index": "7",
+            "key": "Lin2016"
+        },
+        {
+            "index": "9",
+            "key": "Shah2018"
+        },
+        {
+            "index": "12",
+            "key": "Zhang2016"
+        }
+    ],
+    "Engine is open source": [
+        {
+            "index": "6",
+            "key": "Lerer2016"
+        },
+        {
+            "index": "8",
+            "key": "Qiu2016"
+        },
+        {
+            "index": "9",
+            "key": "Shah2018"
+        },
+        {
+            "index": "12",
+            "key": "Zhang2016"
+        }
+    ],
+    "Availability of pre-made assets": [
+        {
+            "index": "8",
+            "key": "Qiu2016"
+        },
+        {
+            "index": "9",
+            "key": "Shah2018"
+        },
+        {
+            "index": "12",
+            "key": "Zhang2016"
+        }
+    ],
+    "Blueprints visual scripting language": [
+        {
+            "index": "1",
+            "key": "Boyd2017"
+        },
+        {
+            "index": "2",
+            "key": "Capece2017"
+        },
+        {
+            "index": "10",
+            "key": "Smyth2018"
+        }
+    ],
+    "Interoperability with external software": [
+        {
+            "index": "8",
+            "key": "Qiu2016"
+        },
+        {
+            "index": "11",
+            "key": "Sun2017"
+        }
+    ],
+    "Engine is cross-platform": [
+        {
+            "index": "9",
+            "key": "Shah2018"
+        }
+    ],
+    "Engine is well-maintained": [
+        {
+            "index": "8",
+            "key": "Qiu2016"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+# Site settings
+title: Unreal Engine For Research
+email: adam@adamrehn.com
+description: Unreal Engine For Research
+url: "https://ue4research.org"
+baseurl: ""
+timezone: Australia/Brisbane
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  toc_levels: [2,3,4,5,6]
+exclude: ["_publications", "_stats", ".gitignore", "README.md"]

@@ -1,0 +1,10 @@
+{% assign sorted = site.documents | where: "project", page.project | where_exp: "page", "page.order != null" | sort: "order" %}
+{% for category in page.category_order %}
+	<p class="category">{{ category | escape | replace: " ", "&nbsp;" }}</p>
+	<ul>
+	{% assign pages = sorted | where: "category", category %}
+	{% for p in pages %}
+		<li{% if p.url == page.url %} class="selected"{% endif %}><a href="{{ p.url | relative_url | uri_escape }}">{{ p.title | escape | replace: " ", "&nbsp;" }}</a></li>
+	{% endfor %}
+	</ul>
+{% endfor %}

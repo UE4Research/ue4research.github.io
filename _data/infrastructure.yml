@@ -1,0 +1,77 @@
+-
+  name: ue4-docker
+  author: Adam Rehn
+  homepage: ""
+  repository: https://github.com/adamrehn/ue4-docker
+  docs: https://adamrehn.com/docs/ue4-docker
+  description: >
+    The ue4-docker Python package contains a set of Dockerfiles and accompanying build infrastructure that allows you to build Docker images for Epic Games' Unreal Engine 4. The images also incorporate the infrastructure from ue4cli and conan-ue4cli to facilitate a wide variety of use cases.
+    
+    
+    Key features include:
+    
+      
+    - Unreal Engine 4.19.0 and newer is supported.
+    
+    - Both Windows containers and Linux containers are supported.
+    
+    - Building and packaging UE4 projects is supported.
+    
+    - Running automation tests is supported.
+    
+    - Running built UE4 projects with offscreen rendering is supported via NVIDIA Docker under Linux.
+  uses: >
+    - The built container images can be used to perform automated, reproducible builds of Unreal projects in a sandboxed environment that can then be run on a host system without UE4 installed, which makes it cleaner and easier to try out Unreal projects from other researchers that you've found online.
+    
+    
+    - With [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker) installed under Linux, the containers can be used to run Unreal projects in a sandboxed environment with full offscreen rendering support, making it easy to bundle projects with complex runtime dependencies and run them on systems without UE4 installed or even deploy projects to cloud compute servers.
+    
+    
+    - The built containers can act as a source of Installed Builds of UE4 under Linux, so you can easily export a build of the Engine for all team members who are working under Linux in a similar manner to how the Epic Games Launcher provides Installed Builds under Windows and macOS.
+    
+    
+    - The built containers also act as a source of [conan-ue4cli](#conan-ue4cli) wrapper packages that can be exported and used by team members.
+-
+  name: ue4cli
+  author: Adam Rehn
+  homepage: ""
+  repository: https://github.com/adamrehn/ue4cli
+  docs: https://adamrehn.com/docs/ue4cli
+  description: >
+    The ue4cli Python package implements a command-line tool called `ue4` that provides a simplified interface to various functionality of the build system for Epic Games' Unreal Engine 4. The primary goals of this tool are as follows:
+    
+    
+    - Abstract away the platform-specific details of the various batch files and shell scripts scattered throughout the Engine's source tree.
+    
+    - Provide the ability to easily generate IDE project files under Linux, where no shell integration currently exists to perform this task from outside the Editor.
+    
+    - Determine the compiler flags required to build third-party libraries for use within Engine modules. This is particularly important under macOS and Linux where symbol interposition can cause clashes between external libraries and those bundled in the `ThirdParty` directory of the Engine source tree, and under Linux where libraries need to build against the Engine's bundled version of libc++.
+  uses: >
+    The workflow enhancements provided by ue4cli primarily cater to users who prefer to use the command line to work with UE4, or are working under Linux. Outside of this core functionality, the main benefit of ue4cli is that it allows you to install and use the [conan-ue4cli](#conan-ue4cli) plugin, which forms the basis for most of the third-party library integrations listed in the [Integrations](#integrations) section.
+-
+  name: conan-ue4cli
+  author: Adam Rehn
+  homepage: ""
+  repository: https://github.com/adamrehn/conan-ue4cli
+  docs: ""
+  description: >
+    The conan-ue4cli Python package is a plugin for ue4cli that provides functionality for generating and using Conan packages that wrap the third-party libraries bundled in the `Engine/Source/ThirdParty` subdirectory of the Unreal Engine 4 source tree. 
+  uses: >
+    The conan-ue4cli plugin for [ue4cli](#ue4cli) provides wrapper packages around the third-party dependencies that come bundled with the Unreal Engine, along with infrastructure that makes it easy to write [Conan](https://conan.io/) recipes for building additional third-party libraries against these bundled dependencies to ensure full compatibility with UE4 under all platforms. This Conan-based workflow dramatically simplifies the task of integrating third-party libraries and tools into the Unreal Engine and forms the basis for most the library integrations listed in the [Integrations](#integrations) section.
+-
+  name: UnrealCV
+  author: Weichao Qiu, Fangwei Zhong, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille
+  homepage: https://unrealcv.org
+  repository: https://github.com/unrealcv/unrealcv
+  docs: http://docs.unrealcv.org
+  description: >
+    UnrealCV is an open source project to help computer vision researchers build virtual worlds using Unreal Engine 4. It extends UE4 with a plugin by providing:
+    
+    
+    - A set of UnrealCV commands to interact with the virtual world.
+    
+    - Communication between UE4 and an external program, such as Caffe.
+    
+    
+  uses: >
+    UnrealCV is particularly helpful for using virtual environments to generate image datasets with rich ground truth data that can then be used to train machine learning algorithms.

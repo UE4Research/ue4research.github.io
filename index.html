@@ -1,0 +1,20 @@
+---
+layout: default
+pageclass: home
+tagline: The central hub for anyone who uses Unreal Engine 4 within the context of scientific research.
+---
+
+{% for item in site.data.nav %}
+<a href="{{ item.link | relative_url | uri_escape }}" class="pagelink-wrapper">
+	<div class="pagelink link-{{ item.name | downcase | escape }}">
+		<div class="pagelink-icon">
+			<p class="icon fas fa-fw fa-{{ item.icon | escape }}"></p>
+		</div>
+		<div class="pagelink-body">
+			<h2>{{ item.name | escape }}</h2>
+			{% assign page = site.pages | where: "permalink", item.link %}
+			<p>{{ page[0].tagline | escape }}</p>
+		</div>
+	</div>
+</a>
+{% endfor %}

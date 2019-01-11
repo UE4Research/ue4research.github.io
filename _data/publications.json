@@ -1,0 +1,98 @@
+{
+    "2018": [
+        {
+            "key": "Bak2018",
+            "html": "Slawomir Bak, Peter Carr, and Jean-Fran\u00e7ois Lalonde. Domain adaptation through synthesis for unsupervised person re-identification. <em>CoRR</em>, 2018. URL: <a href=\"http://arxiv.org/abs/1804.10094\">http://arxiv.org/abs/1804.10094</a>, <a href=\"https://arxiv.org/abs/1804.10094\">arXiv:1804.10094</a>."
+        },
+        {
+            "key": "Bock2018",
+            "html": "Marcel Bock and Andreas Schreiber. Visualization of neural networks in virtual reality using unreal engine. In <em>Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology</em>, VRST '18, 132:1&ndash;132:2. New York, NY, USA, 2018. ACM. URL: <a href=\"http://doi.acm.org/10.1145/3281505.3281605\">http://doi.acm.org/10.1145/3281505.3281605</a>, DOI: <a href=\"https://doi.org/10.1145/3281505.3281605\">doi:10.1145/3281505.3281605</a>."
+        },
+        {
+            "key": "Bondi2018",
+            "html": "Elizabeth Bondi, Ashish Kapoor, Debadeepta Dey, James Piavis, Shital Shah, Robert Hannaford, Arvind Iyer, Lucas Joppa, and Milind Tambe. Near real-time detection of poachers from drones in airsim. In <em>Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI-18</em>, 5814\u20135816. International Joint Conferences on Artificial Intelligence Organization, 7 2018. URL: <a href=\"https://doi.org/10.24963/ijcai.2018/847\">https://doi.org/10.24963/ijcai.2018/847</a>, DOI: <a href=\"https://doi.org/10.24963/ijcai.2018/847\">doi:10.24963/ijcai.2018/847</a>."
+        },
+        {
+            "key": "Carrio2018",
+            "html": "Adrian Carrio, Sai Vemprala, Andres Ripoll, Srikanth Saripalli, and Pascual Campoy. Drone detection using depth maps. <em>CoRR</em>, 2018. URL: <a href=\"http://arxiv.org/abs/1808.00259\">http://arxiv.org/abs/1808.00259</a>, <a href=\"https://arxiv.org/abs/1808.00259\">arXiv:1808.00259</a>."
+        },
+        {
+            "key": "Jha2018",
+            "html": "S.&nbsp;Jha, S.&nbsp;S. Banerjee, J.&nbsp;Cyriac, Z.&nbsp;T. Kalbarczyk, and R.&nbsp;K. Iyer. AVFI: fault injection for autonomous vehicles. In <em>2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W)</em>, 55&ndash;56. June 2018. <a href=\"https://doi.org/10.1109/DSN-W.2018.00027\">doi:10.1109/DSN-W.2018.00027</a>."
+        },
+        {
+            "key": "Khirodkar2018",
+            "html": "Rawal Khirodkar, Donghyun Yoo, and Kris&nbsp;M. Kitani. Domain randomization for scene-specific car detection and pose estimation. <em>CoRR</em>, 2018. URL: <a href=\"http://arxiv.org/abs/1811.05939\">http://arxiv.org/abs/1811.05939</a>, <a href=\"https://arxiv.org/abs/1811.05939\">arXiv:1811.05939</a>."
+        },
+        {
+            "key": "Kolagunda2018",
+            "html": "Abhishek Kolagunda, Scott Sorensen, Sherif Mehralivand, Philip Saponaro, Wayne Treible, Baris Turkbey, Peter Pinto, Peter Choyke, and Chandra Kambhamettu. A mixed reality guidance system for robot assisted laparoscopic radical prostatectomy. In Danail Stoyanov, Zeike Taylor, Duygu Sarikaya, Jonathan McLeod, Miguel&nbsp;Angel Gonz\u00e1lez&nbsp;Ballester, Noel&nbsp;C.F. Codella, Anne Martel, Lena Maier-Hein, Anand Malpani, Marco&nbsp;A. Zenati, Sandrine De&nbsp;Ribaupierre, Luo Xiongbiao, Toby Collins, Tobias Reichl, Klaus Drechsler, Marius Erdt, Marius&nbsp;George Linguraru, Cristina Oyarzun&nbsp;Laura, Raj Shekhar, Stefan Wesarg, M.&nbsp;Emre Celebi, Kristin Dana, and Allan Halpern, editors, <em>OR 2.0 Context-Aware Operating Theaters, Computer Assisted Robotic Endoscopy, Clinical Image-Based Procedures, and Skin Image Analysis</em>, 164\u2013174. Cham, 2018. Springer International Publishing. <a href=\"https://doi.org/10.1007/978-3-030-01201-4_18\">doi:10.1007/978-3-030-01201-4_18</a>."
+        },
+        {
+            "key": "Shah2018",
+            "html": "Shital Shah, Debadeepta Dey, Chris Lovett, and Ashish Kapoor. AirSim: high-fidelity visual and physical simulation for autonomous vehicles. In Marco Hutter and Roland Siegwart, editors, <em>Field and Service Robotics</em>, 621\u2013635. Cham, 2018. Springer International Publishing. URL: <a href=\"https://link.springer.com/chapter/10.1007/978-3-319-67361-5_40\">https://link.springer.com/chapter/10.1007/978-3-319-67361-5_40</a>."
+        },
+        {
+            "key": "Smyth2018",
+            "html": "D.&nbsp;L. Smyth, F.&nbsp;G. Glavin, and M.&nbsp;G. Madden. Using a game engine to simulate critical incidents and data collection by autonomous drones. In <em>2018 IEEE Games, Entertainment, Media Conference (GEM)</em>, 1&ndash;9. Aug 2018. <a href=\"https://doi.org/10.1109/GEM.2018.8516527\">doi:10.1109/GEM.2018.8516527</a>."
+        },
+        {
+            "key": "Tremblay2018",
+            "html": "Jonathan Tremblay, Thang To, and Stan Birchfield. Falling Things: a synthetic dataset for 3d object detection and pose estimation. In <em>The IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops</em>. June 2018. URL: <a href=\"https://research.nvidia.com/publication/2018-06_Falling-Things\">https://research.nvidia.com/publication/2018-06_Falling-Things</a>."
+        },
+        {
+            "key": "Wu2018",
+            "html": "T.&nbsp;Wu, S.&nbsp;Tseng, C.&nbsp;Lai, C.&nbsp;Ho, and Y.&nbsp;Lai. Navigating assistance system for quadcopter with deep reinforcement learning. In <em>2018 1st International Cognitive Cities Conference (IC3)</em>, 16&ndash;19. Aug 2018. <a href=\"https://doi.org/10.1109/IC3.2018.00013\">doi:10.1109/IC3.2018.00013</a>."
+        }
+    ],
+    "2017": [
+        {
+            "key": "Bergmann2017",
+            "html": "Till Bergmann, Matthias Balzer, Torsten Hopp, Thomas van de Kamp, Andreas Kopmann, Nicholas&nbsp;Tan Jerome, and Michael Zapf. Inspiration from vr gaming technology: deep immersion and realistic interaction for scientific visualization. In <em>IVAPP 2017 : 8th International Conference on Information Visualization Theory and Applications, Porto, Portugal, 27. Februar - 1. M\u00e4rz.2017. Vol.: 3. Ed.: L. Linsen (IVAPP is part of VISIGRAPP, the 12th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications)</em>, 330&ndash;334. SciTePress, Set\u00fabal, 2017. 54.02.02; LK 01. URL: <a href=\"https://publikationen.bibliothek.kit.edu/1000078131\">https://publikationen.bibliothek.kit.edu/1000078131</a>."
+        },
+        {
+            "key": "Boyd2017",
+            "html": "Reece&nbsp;A. Boyd and Salvador&nbsp;E. Barbosa. Reinforcement learning for all: an implementation using unreal engine blueprint. In <em>2017 International Conference on Computational Science and Computational Intelligence (CSCI)</em>, 787&ndash;792. IEEE, Dec 2017. <a href=\"https://doi.org/10.1109/CSCI.2017.136\">doi:10.1109/CSCI.2017.136</a>."
+        },
+        {
+            "key": "Capece2017",
+            "html": "Nicola Capece, Ugo Erra, Simone Romano, and Giuseppe Scanniello. Visualising a software system as a city through virtual reality. In Lucio&nbsp;Tommaso De&nbsp;Paolis, Patrick Bourdot, and Antonio Mongelli, editors, <em>Augmented Reality, Virtual Reality, and Computer Graphics</em>, 319\u2013327. Cham, 2017. Springer International Publishing. <a href=\"https://doi.org/10.1007/978-3-319-60928-7_28\">doi:10.1007/978-3-319-60928-7_28</a>."
+        },
+        {
+            "key": "Griffith2017",
+            "html": "Tami Griffith, Jennie Ablanedo, and Tabitha Dwyer. Leveraging a virtual environment to prepare for school shootings. In Stephanie Lackey and Jessie Chen, editors, <em>Virtual, Augmented and Mixed Reality</em>, 325\u2013338. Cham, 2017. Springer International Publishing. <a href=\"https://doi.org/10.1007/978-3-319-57987-0_26\">doi:10.1007/978-3-319-57987-0_26</a>."
+        },
+        {
+            "key": "Sun2017",
+            "html": "Q.&nbsp;Sun, E.&nbsp;Gonzalez, and B.&nbsp;Abadines. A wearable sensor based hand movement rehabilitation and evaluation system. In <em>2017 Eleventh International Conference on Sensing Technology (ICST)</em>, 1&ndash;4. Dec 2017. <a href=\"https://doi.org/10.1109/ICSensT.2017.8304471\">doi:10.1109/ICSensT.2017.8304471</a>."
+        }
+    ],
+    "2016": [
+        {
+            "key": "Du2016",
+            "html": "J.&nbsp;Du, C.&nbsp;Mouser, and W.&nbsp;Sheng. Design and evaluation of a teleoperated robotic 3-D mapping system using an RGB-D sensor. <em>IEEE Transactions on Systems, Man, and Cybernetics: Systems</em>, 46(5):718&ndash;724, May 2016. <a href=\"https://doi.org/10.1109/TSMC.2015.2461186\">doi:10.1109/TSMC.2015.2461186</a>."
+        },
+        {
+            "key": "Lerer2016",
+            "html": "Adam Lerer, Sam Gross, and Rob Fergus. Learning physical intuition of block towers by example. In <em>Proceedings of the 33rd International Conference on International Conference on Machine Learning - Volume 48</em>, ICML'16, 430\u2013438. JMLR.org, 2016. URL: <a href=\"http://dl.acm.org/citation.cfm?id=3045390.3045437\">http://dl.acm.org/citation.cfm?id=3045390.3045437</a>."
+        },
+        {
+            "key": "Lin2016",
+            "html": "Jenny Lin, Xingwen Guo, Jingyu Shao, Chenfanfu Jiang, Yixin Zhu, and Song-Chun Zhu. A virtual reality platform for dynamic human-scene interaction. In <em>SIGGRAPH ASIA 2016 Virtual Reality Meets Physical Reality: Modelling and Simulating Virtual Humans and Environments</em>, SA '16, 11:1&ndash;11:4. New York, NY, USA, 2016. ACM. URL: <a href=\"http://doi.acm.org/10.1145/2992138.2992144\">http://doi.acm.org/10.1145/2992138.2992144</a>, DOI: <a href=\"https://doi.org/10.1145/2992138.2992144\">doi:10.1145/2992138.2992144</a>."
+        },
+        {
+            "key": "Qiu2016",
+            "html": "Weichao Qiu and Alan Yuille. UnrealCV: connecting computer vision to unreal engine. In Gang Hua and Herv\u00e9 J\u00e9gou, editors, <em>Computer Vision \u2013 ECCV 2016 Workshops</em>, 909\u2013916. Cham, 2016. Springer International Publishing. URL: <a href=\"https://link.springer.com/chapter/10.1007/978-3-319-49409-8_75\">https://link.springer.com/chapter/10.1007/978-3-319-49409-8_75</a>."
+        },
+        {
+            "key": "Zhang2016",
+            "html": "Yi&nbsp;Zhang, Weichao Qiu, Qi&nbsp;Chen, Xiaolin Hu, and Alan&nbsp;L. Yuille. UnrealStereo: a synthetic dataset for analyzing stereo vision. <em>CoRR</em>, 2016. URL: <a href=\"http://arxiv.org/abs/1612.04647\">http://arxiv.org/abs/1612.04647</a>, <a href=\"https://arxiv.org/abs/1612.04647\">arXiv:1612.04647</a>."
+        }
+    ],
+    "2015": [
+        {
+            "key": "Ktena2015",
+            "html": "S.&nbsp;I. Ktena, W.&nbsp;Abbott, and A.&nbsp;A. Faisal. A virtual reality platform for safe evaluation and training of natural gaze-based wheelchair driving. In <em>2015 7th International IEEE/EMBS Conference on Neural Engineering (NER)</em>, 236&ndash;239. April 2015. <a href=\"https://doi.org/10.1109/NER.2015.7146603\">doi:10.1109/NER.2015.7146603</a>."
+        }
+    ]
+}
