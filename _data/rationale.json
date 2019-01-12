@@ -1,117 +1,149 @@
 {
     "Produces photo-realistic images": [
         {
-            "index": "3",
+            "index": "4",
             "key": "Carrio2018"
         },
         {
-            "index": "4",
+            "index": "5",
             "key": "Khirodkar2018"
         },
         {
-            "index": "6",
+            "index": "7",
             "key": "Lerer2016"
         },
         {
-            "index": "8",
+            "index": "10",
+            "key": "Peng2018"
+        },
+        {
+            "index": "11",
             "key": "Qiu2016"
         },
         {
-            "index": "9",
+            "index": "12",
             "key": "Shah2018"
         },
         {
-            "index": "10",
+            "index": "13",
+            "key": "Skinner2016"
+        },
+        {
+            "index": "14",
             "key": "Smyth2018"
+        },
+        {
+            "index": "17",
+            "key": "Zhang2018"
         }
     ],
     "High-quality physics/collision simulation": [
         {
-            "index": "5",
+            "index": "6",
             "key": "Ktena2015"
         },
         {
-            "index": "6",
+            "index": "7",
             "key": "Lerer2016"
         },
         {
-            "index": "7",
+            "index": "8",
             "key": "Lin2016"
         },
         {
             "index": "9",
-            "key": "Shah2018"
+            "key": "Nash2018"
         },
         {
             "index": "12",
-            "key": "Zhang2016"
-        }
-    ],
-    "Engine is open source": [
-        {
-            "index": "6",
-            "key": "Lerer2016"
-        },
-        {
-            "index": "8",
-            "key": "Qiu2016"
-        },
-        {
-            "index": "9",
             "key": "Shah2018"
         },
         {
-            "index": "12",
-            "key": "Zhang2016"
-        }
-    ],
-    "Availability of pre-made assets": [
-        {
-            "index": "8",
-            "key": "Qiu2016"
-        },
-        {
-            "index": "9",
-            "key": "Shah2018"
-        },
-        {
-            "index": "12",
+            "index": "16",
             "key": "Zhang2016"
         }
     ],
     "Blueprints visual scripting language": [
         {
-            "index": "1",
+            "index": "2",
             "key": "Boyd2017"
         },
         {
-            "index": "2",
+            "index": "3",
             "key": "Capece2017"
         },
         {
-            "index": "10",
+            "index": "9",
+            "key": "Nash2018"
+        },
+        {
+            "index": "14",
             "key": "Smyth2018"
+        },
+        {
+            "index": "17",
+            "key": "Zhang2018"
+        }
+    ],
+    "Engine is open source": [
+        {
+            "index": "7",
+            "key": "Lerer2016"
+        },
+        {
+            "index": "9",
+            "key": "Nash2018"
+        },
+        {
+            "index": "11",
+            "key": "Qiu2016"
+        },
+        {
+            "index": "12",
+            "key": "Shah2018"
+        },
+        {
+            "index": "16",
+            "key": "Zhang2016"
+        }
+    ],
+    "Availability of pre-made assets": [
+        {
+            "index": "1",
+            "key": "Bondi2018a"
+        },
+        {
+            "index": "11",
+            "key": "Qiu2016"
+        },
+        {
+            "index": "12",
+            "key": "Shah2018"
+        },
+        {
+            "index": "16",
+            "key": "Zhang2016"
         }
     ],
     "Interoperability with external software": [
         {
-            "index": "8",
+            "index": "11",
             "key": "Qiu2016"
         },
         {
-            "index": "11",
+            "index": "15",
             "key": "Sun2017"
         }
     ],
     "Engine is cross-platform": [
         {
-            "index": "9",
+            "index": "12",
             "key": "Shah2018"
         }
     ],
     "Engine is well-maintained": [
         {
-            "index": "8",
+            "index": "11",
             "key": "Qiu2016"
         }
     ]
