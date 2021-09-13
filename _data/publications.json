@@ -1,4 +1,14 @@
 {
+    "2019": [
+        {
+            "key": "Campbell2019a",
+            "html": "Joey Campbell and Mike Fraser. Cartright: maintaining good posture in the presence of adaptive haptics. In <em>Proceedings of the 31st European Conference on Cognitive Ergonomics</em>, 148\u2013155. 09 2019. <a href=\"https://doi.org/10.1145/3335082.3335088\">doi:10.1145/3335082.3335088</a>."
+        },
+        {
+            "key": "Campbell2019b",
+            "html": "Joey Campbell and Mike Fraser. Switching it up: designing adaptive interfaces for virtual reality exergames. In <em>Proceedings of the 31st European Conference on Cognitive Ergonomics</em>, 177\u2013184. 09 2019. <a href=\"https://doi.org/10.1145/3335082.3335087\">doi:10.1145/3335082.3335087</a>."
+        }
+    ],
     "2018": [
         {
             "key": "Bak2018",
@@ -6,7 +16,7 @@
         },
         {
             "key": "Bock2018",
-            "html": "Marcel Bock and Andreas Schreiber. Visualization of neural networks in virtual reality using Unreal Engine. In <em>Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology</em>, VRST '18, 132:1&ndash;132:2. New York, NY, USA, 2018. ACM. URL: <a href=\"http://doi.acm.org/10.1145/3281505.3281605\">http://doi.acm.org/10.1145/3281505.3281605</a>, DOI: <a href=\"https://doi.org/10.1145/3281505.3281605\">doi:10.1145/3281505.3281605</a>."
+            "html": "Marcel Bock and Andreas Schreiber. Visualization of neural networks in virtual reality using Unreal Engine. In <em>Proceedings of the 24th ACM Symposium on Virtual Reality Software and Technology</em>, VRST '18, 132:1\u2013132:2. New York, NY, USA, 2018. ACM. URL: <a href=\"http://doi.acm.org/10.1145/3281505.3281605\">http://doi.acm.org/10.1145/3281505.3281605</a>, DOI: <a href=\"https://doi.org/10.1145/3281505.3281605\">doi:10.1145/3281505.3281605</a>."
         },
         {
             "key": "Bondi2018",
@@ -14,7 +24,11 @@
         },
         {
             "key": "Bondi2018a",
-            "html": "Elizabeth Bondi, Debadeepta Dey, Ashish Kapoor, Jim Piavis, Shital Shah, Fei Fang, Bistra Dilkina, Robert Hannaford, Arvind Iyer, Lucas Joppa, and Milind Tambe. AirSim-W: a simulation environment for wildlife conservation with UAVs. In <em>Proceedings of the 1st ACM SIGCAS Conference on Computing and Sustainable Societies</em>, COMPASS '18, 40:1&ndash;40:12. New York, NY, USA, 2018. ACM. URL: <a href=\"http://doi.acm.org/10.1145/3209811.3209880\">http://doi.acm.org/10.1145/3209811.3209880</a>, DOI: <a href=\"https://doi.org/10.1145/3209811.3209880\">doi:10.1145/3209811.3209880</a>."
+            "html": "Elizabeth Bondi, Debadeepta Dey, Ashish Kapoor, Jim Piavis, Shital Shah, Fei Fang, Bistra Dilkina, Robert Hannaford, Arvind Iyer, Lucas Joppa, and Milind Tambe. AirSim-W: a simulation environment for wildlife conservation with UAVs. In <em>Proceedings of the 1st ACM SIGCAS Conference on Computing and Sustainable Societies</em>, COMPASS '18, 40:1\u201340:12. New York, NY, USA, 2018. ACM. URL: <a href=\"http://doi.acm.org/10.1145/3209811.3209880\">http://doi.acm.org/10.1145/3209811.3209880</a>, DOI: <a href=\"https://doi.org/10.1145/3209811.3209880\">doi:10.1145/3209811.3209880</a>."
+        },
+        {
+            "key": "Campbell2018",
+            "html": "Joey Campbell, Trevor Hogan, and Mike Fraser. Feeling virtual worlds: an exploration into coupling virtual and kinaesthetic experiences. In <em>Proceedings of the Twelfth International Conference on Tangible, Embedded, and Embodied Interaction</em>, 279\u2013285. 03 2018. <a href=\"https://doi.org/10.1145/3173225.3173281\">doi:10.1145/3173225.3173281</a>."
         },
         {
             "key": "Carrio2018",
@@ -106,7 +120,7 @@
         },
         {
             "key": "Lin2016",
-            "html": "Jenny Lin, Xingwen Guo, Jingyu Shao, Chenfanfu Jiang, Yixin Zhu, and Song-Chun Zhu. A virtual reality platform for dynamic human-scene interaction. In <em>SIGGRAPH ASIA 2016 Virtual Reality Meets Physical Reality: Modelling and Simulating Virtual Humans and Environments</em>, SA '16, 11:1&ndash;11:4. New York, NY, USA, 2016. ACM. URL: <a href=\"http://doi.acm.org/10.1145/2992138.2992144\">http://doi.acm.org/10.1145/2992138.2992144</a>, DOI: <a href=\"https://doi.org/10.1145/2992138.2992144\">doi:10.1145/2992138.2992144</a>."
+            "html": "Jenny Lin, Xingwen Guo, Jingyu Shao, Chenfanfu Jiang, Yixin Zhu, and Song-Chun Zhu. A virtual reality platform for dynamic human-scene interaction. In <em>SIGGRAPH ASIA 2016 Virtual Reality Meets Physical Reality: Modelling and Simulating Virtual Humans and Environments</em>, SA '16, 11:1\u201311:4. New York, NY, USA, 2016. ACM. URL: <a href=\"http://doi.acm.org/10.1145/2992138.2992144\">http://doi.acm.org/10.1145/2992138.2992144</a>, DOI: <a href=\"https://doi.org/10.1145/2992138.2992144\">doi:10.1145/2992138.2992144</a>."
         },
         {
             "key": "Qiu2016",
