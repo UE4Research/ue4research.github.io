@@ -8,7 +8,7 @@ permalink: /about
 
 ## Project overview
 
-Founded in 2018, the Unreal Engine For Research ("UE4Research") project aims to act as a central hub for anyone who uses, or wishes to use, Epic Games' [Unreal Engine 4](https://www.unrealengine.com/) within the context of scientific research.
+Founded in 2018, the Unreal Engine For Research ("UE4Research") project aims to act as a central hub for anyone who uses, or wishes to use, Epic Games' [Unreal Engine](https://www.unrealengine.com/) within the context of scientific research.
 
 The project has three key goals:
 

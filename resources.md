@@ -15,7 +15,7 @@ permalink: /resources
 
 ## Getting started
 
-There are a wide variety of freely-available resources dedicated to helping new users familiarise themselves with Unreal Engine 4. Key resources include:
+There are a wide variety of freely-available resources dedicated to helping new users familiarise themselves with the Unreal Engine. Key resources include:
 
 - The [official Unreal Engine documentation](https://docs.unrealengine.com/) provides tutorials and getting started guides alongside detailed technical information about various engine subsystems and full API documentation.
 
